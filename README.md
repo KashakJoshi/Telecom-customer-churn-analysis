@@ -17,4 +17,4 @@ What This Project Demonstrates
 	•	Rule-based risk scoring framework
 	•	Revenue-weighted prioritization
 	•	Scenario and break-even modeling
-	•	Business-aligned analytical thinking
+	•	Business-aligned analytical thinking  git push --set-upstream origion main
